@@ -2,7 +2,7 @@
 
 A curated list of outstanding offensive security AI work, papers, organizations, libraries, and benchmarks.
 
-## Job
+## Job 2024
 
 ### Cybench
 
@@ -12,6 +12,14 @@ Cybench: A Framework for Evaluating Cybersecurity Capabilities and Risks of Lang
 - [Cybench GitHub](https://github.com/andyzorigin/cybench)
 - [Cybench Paper](https://arxiv.org/abs/2408.08926)
 
+### Bountybench
+
+A framework to capture offensive & defensive cyber-capabilities in evolving real-world systems.
+
+- [Bountybench Website](https://bountybench.github.io/)
+- [Bountybench GitHub](https://github.com/bountybench/bountybench)
+- [Bountybench Paper](https://arxiv.org/abs/2505.15216)
+
 ### EnIGMA
 
 EnIGMA: A mode for solving offensive cybersecurity (capture the flag) challenges, achieving state-of-the-art results on multiple cybersecurity benchmarks.
@@ -19,6 +27,7 @@ EnIGMA: A mode for solving offensive cybersecurity (capture the flag) challenges
 - [EnIGMA Website](https://enigma-agent.com)
 - [EnIGMA GitHub](https://github.com/SWE-agent)
 - [EnIGMA Paper](https://arxiv.org/abs/2409.16165)
+- [EnIGMA Benchmark](https://github.com/enigma-agent/benchmarks)
 
 ### XBOW(Business)
 
@@ -42,6 +51,19 @@ nyuctf_agents: Baseline LLM agents for NYU CTF benchmark.
 - [nyuctf_agents GitHub](https://github.com/NYU-LLM-CTF/nyuctf_agents)
 - [NYU_CTF_BenchMark](https://github.com/NYU-LLM-CTF/NYU_CTF_Bench)
 
+#### D-CIPHER
+
+D-CIPHER: Dynamic collaborative intelligent multi-agent system for offensive security.
+
+- [D-CIPHER Paper](https://arxiv.org/abs/2502.10931)
+
+#### CRAKEN
+
+CRAKEN: Cybersecurity LLM Agent with Knowledge-Based Execution
+
+- [CRAKEN GitHub](https://github.com/NYU-LLM-CTF/nyuctf_agents_craken)
+- [CRAKEN Paper](https://arxiv.org/abs/2505.17107)
+
 ### HackSynth
 
 HackSynth: LLM agent and evaluation framework for autonomous penetration testing.
@@ -49,8 +71,23 @@ HackSynth: LLM agent and evaluation framework for autonomous penetration testing
 - [HackSynth GitHub](https://github.com/aielte-research/HackSynth)
 - [HackSynth Paper](https://arxiv.org/abs/2412.01778)
 
-### D-CIPHER
+### CAI
 
-D-CIPHER: Dynamic collaborative intelligent multi-agent system for offensive security.
+A lightweight, ergonomic framework for building bug bounty-ready Cybersecurity AIs (CAIs).
 
-- [D-CIPHER Paper](https://arxiv.org/abs/2502.10931)
+- [CAI Website](https://aliasrobotics.github.io/cai/)
+- [CAI GitHub](https://github.com/aliasrobotics/cai)
+
+### RedTeamLLM
+
+RedTeamLLM: an Agentic AI framework for offensive security
+
+- [RedTeamLLM Paper](https://arxiv.org/abs/2505.06913)
+- [RedTeamLLM GitHub](https://github.com/lre-security-systems-team/redteamllm)
+
+### LLM_CTF
+
+An Empirical Evaluation of LLMs for Solving Offensive Security Challenges
+
+- [LLM_CTF GitHub](https://github.com/NickNameInvalid/LLM_CTF)
+- [LLM_CTF Paper](https://arxiv.org/abs/2402.11814)
