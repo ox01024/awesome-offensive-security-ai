@@ -1,5 +1,7 @@
 # Awesome Offensive Security AI
 
+[简体中文](README_ZH.md)
+
 A curated list of outstanding offensive security AI work, papers, organizations, libraries, and benchmarks.
 
 ## Job 2024
