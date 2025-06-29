@@ -114,3 +114,7 @@ inspect_cyber: 由 UKGovernmentBEIS 开发的 Inspect 扩展，旨在用于代�
 
 - [inspect_cyber 网站](https://inspect.cyber.aisi.org.uk/)
 - [inspect_cyber GitHub](https://github.com/UKGovernmentBEIS/inspect_cyber)
+
+## 如何贡献
+
+欢迎贡献！如果您有适合此列表的项目、论文或资源，请随时提交拉取请求。请确保您的提交符合现有格式和类别。
