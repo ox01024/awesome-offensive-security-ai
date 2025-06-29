@@ -103,3 +103,10 @@ QHackBench: 使用 PennyLane Hackathon 挑战基准测试用于量子代码生�
 教LLM如何XSS: 微调和强化学习的介绍（使用您自己的GPU）
 
 - [幻灯片](https://docs.google.com/presentation/d/1feHRtOWdAKhZUQcfyzeDSgsx4Sn5QzqfgLFV1Tiskmo/edit)
+
+### inspect_cyber
+
+inspect_cyber: 由 UKGovernmentBEIS 开发的 Inspect 扩展，旨在用于代理网络评估。该项目旨在促进网络安全领域中 AI 代理的评估。
+
+- [inspect_cyber 网站](https://inspect.cyber.aisi.org.uk/)
+- [inspect_cyber GitHub](https://github.com/UKGovernmentBEIS/inspect_cyber)

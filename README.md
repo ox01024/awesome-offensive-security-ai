@@ -105,3 +105,10 @@ QHackBench: Benchmarking Large Language Models for Quantum Code Generation using
 Teaching LLMs how to XSS: An introduction to fine-tuning and reinforcement learning (using your own GPU)
 
 - [Slides](https://docs.google.com/presentation/d/1feHRtOWdAKhZUQcfyzeDSgsx4Sn5QzqfgLFV1Tiskmo/edit)
+
+### inspect_cyber
+
+inspect_cyber: An Inspect extension developed by UKGovernmentBEIS, designed for agentic cyber evaluations. This project aims to facilitate the assessment of AI agents in cybersecurity contexts.
+
+- [inspect_cyber Website](https://inspect.cyber.aisi.org.uk/)
+- [inspect_cyber GitHub](https://github.com/UKGovernmentBEIS/inspect_cyber)
