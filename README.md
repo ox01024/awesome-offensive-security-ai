@@ -97,3 +97,9 @@ An Empirical Evaluation of LLMs for Solving Offensive Security Challenges
 QHackBench: Benchmarking Large Language Models for Quantum Code Generation using PennyLane Hackathon Challenges
 
 - [QHackBench Paper](https://arxiv.org/abs/2506.20008)
+
+### Teaching LLMs how to XSS
+
+Teaching LLMs how to XSS: An introduction to fine-tuning and reinforcement learning (using your own GPU)
+
+- [Slides](https://docs.google.com/presentation/d/1feHRtOWdAKhZUQcfyzeDSgsx4Sn5QzqfgLFV1Tiskmo/edit)
