@@ -89,5 +89,11 @@ RedTeamLLM: an Agentic AI framework for offensive security
 
 An Empirical Evaluation of LLMs for Solving Offensive Security Challenges
 
-- [LLM_CTF GitHub](https://github.com/NickNameInvalid/LLM_CTF)
+- [LLM_CTF GitHub](httpss://github.com/NickNameInvalid/LLM_CTF)
 - [LLM_CTF Paper](https://arxiv.org/abs/2402.11814)
+
+### QHackBench
+
+QHackBench: Benchmarking Large Language Models for Quantum Code Generation using PennyLane Hackathon Challenges
+
+- [QHackBench Paper](https://arxiv.org/abs/2506.20008)
