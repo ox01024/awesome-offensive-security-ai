@@ -2,7 +2,7 @@
 
 精选的优秀进攻性安全AI工作、论文、组织、库和基准。
 
-## 2024年工作
+## 基准与评估
 
 ### Cybench
 
@@ -20,6 +20,35 @@ Cybench: 一个评估语言模型网络安全能力和风险的框架
 - [Bountybench GitHub](https://github.com/bountybench/bountybench)
 - [Bountybench 论文](https://arxiv.org/abs/2505.15216)
 
+### InterCode-CTF
+
+InterCode-CTF: 一个用于评估 LLM 在夺旗挑战中表现的基准。
+
+- [论文: Hacking CTFs with Plain Agents](https://arxiv.org/abs/2412.02776)
+- [intercode GitHub](https://github.com/palisaderesearch/intercode)
+
+### nyuctf_agents
+
+nyuctf_agents: NYU CTF 基准的基线 LLM 代理。
+
+- [nyuctf_agents GitHub](https://github.com/NYU-LLM-CTF/nyuctf_agents)
+- [NYU_CTF_BenchMark](https://github.com/NYU-LLM-CTF/NYU_CTF_Bench)
+
+### LLM_CTF
+
+LLM 解决进攻性安全挑战的实证评估
+
+- [LLM_CTF GitHub](httpss://github.com/NickNameInvalid/LLM_CTF)
+- [LLM_CTF 论文](https://arxiv.org/abs/2402.11814)
+
+### QHackBench
+
+QHackBench: 使用 PennyLane Hackathon 挑战基准测试用于量子代码生成的大型语言模型
+
+- [QHackBench 论文](https://arxiv.org/abs/2506.20008)
+
+## LLM 代理与框架
+
 ### EnIGMA
 
 EnIGMA: 一种解决进攻性网络安全（夺旗）挑战的模式，在多个网络安全基准上取得了最先进的结果。
@@ -36,20 +65,6 @@ XBOW: 一个自主发现和利用潜在安全漏洞的系统。
 - [XBOW 网站](https://xbow.com/)
 - [XBOW 基准](https://github.com/xbow-engineering/validation-benchmarks)
 - [XBOW 安全咨询致谢](https://github.com/advisories?query=credit%3Axbow-security)
-
-### InterCode-CTF
-
-InterCode-CTF: 一个用于评估 LLM 在夺旗挑战中表现的基准。
-
-- [论文: Hacking CTFs with Plain Agents](https://arxiv.org/abs/2412.02776)
-- [intercode GitHub](https://github.com/palisaderesearch/intercode)
-
-### nyuctf_agents
-
-nyuctf_agents: NYU CTF 基准的基线 LLM 代理。
-
-- [nyuctf_agents GitHub](https://github.com/NYU-LLM-CTF/nyuctf_agents)
-- [NYU_CTF_BenchMark](https://github.com/NYU-LLM-CTF/NYU_CTF_Bench)
 
 #### D-CIPHER
 
@@ -85,18 +100,7 @@ RedTeamLLM: 一个用于进攻性安全的Agentic AI框架
 - [RedTeamLLM 论文](https://arxiv.org/abs/2505.06913)
 - [RedTeamLLM GitHub](https://github.com/lre-security-systems-team/redteamllm)
 
-### LLM_CTF
-
-LLM 解决进攻性安全挑战的实证评估
-
-- [LLM_CTF GitHub](httpss://github.com/NickNameInvalid/LLM_CTF)
-- [LLM_CTF 论文](https://arxiv.org/abs/2402.11814)
-
-### QHackBench
-
-QHackBench: 使用 PennyLane Hackathon 挑战基准测试用于量子代码生成的大型语言模型
-
-- [QHackBench 论文](https://arxiv.org/abs/2506.20008)
+## LLM 安全研究与工具
 
 ### 教LLM如何XSS
 
