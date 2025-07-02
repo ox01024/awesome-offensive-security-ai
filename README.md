@@ -13,6 +13,7 @@ Cybench: A Framework for Evaluating Cybersecurity Capabilities and Risks of Lang
 - [Cybench Website](https://cybench.github.io/)
 - [Cybench GitHub](https://github.com/andyzorigin/cybench)
 - [Cybench Paper](https://arxiv.org/abs/2408.08926)
+- [ICLR 2025 Oral Presentation](https://iclr.cc/virtual/2025/oral/31753)
 
 ### Bountybench
 

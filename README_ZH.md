@@ -11,6 +11,7 @@ Cybench: 一个评估语言模型网络安全能力和风险的框架。（提�
 - [Cybench 网站](https://cybench.github.io/)
 - [Cybench GitHub](https://github.com/andyzorigin/cybench)
 - [Cybench 论文](https://arxiv.org/abs/2408.08926)
+- [ICLR 2025 大会议题](https://iclr.cc/virtual/2025/oral/31753)
 
 ### Bountybench
 
