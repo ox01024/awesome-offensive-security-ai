@@ -4,14 +4,11 @@
 
 ## 基准与评估
 
-### Cybench
+### QHackBench
 
-Cybench: 一个评估语言模型网络安全能力和风险的框架。（提交日期：2024年8月15日）
+QHackBench: 使用 PennyLane Hackathon 挑战基准测试用于量子代码生成的大型语言模型。（提交日期：2025年6月24日）
 
-- [Cybench 网站](https://cybench.github.io/)
-- [Cybench GitHub](https://github.com/andyzorigin/cybench)
-- [Cybench 论文](https://arxiv.org/abs/2408.08926)
-- [ICLR 2025 大会议题](https://iclr.cc/virtual/2025/oral/31753)
+- [QHackBench 论文](https://arxiv.org/abs/2506.20008)
 
 ### Bountybench
 
@@ -21,6 +18,13 @@ Cybench: 一个评估语言模型网络安全能力和风险的框架。（提�
 - [Bountybench GitHub](https://github.com/bountybench/bountybench)
 - [Bountybench 论文](https://arxiv.org/abs/2505.15216)
 
+### nyuctf_agents
+
+nyuctf_agents: NYU CTF 基准的基线 LLM 代理。（最新发布：2025年2月6日）
+
+- [nyuctf_agents GitHub](https://github.com/NYU-LLM-CTF/nyuctf_agents)
+- [NYU_CTF_BenchMark](https://github.com/NYU-LLM-CTF/NYU_CTF_Bench)
+
 ### InterCode-CTF
 
 InterCode-CTF: 一个用于评估 LLM 在夺旗挑战中表现的基准。（提交日期：2024年12月3日）
@@ -28,12 +32,48 @@ InterCode-CTF: 一个用于评估 LLM 在夺旗挑战中表现的基准。（提
 - [论文: Hacking CTFs with Plain Agents](https://arxiv.org/abs/2412.02776)
 - [intercode GitHub](https://github.com/palisaderesearch/intercode)
 
-### nyuctf_agents
+### Cybench
 
-nyuctf_agents: NYU CTF 基准的基线 LLM 代理。（最新发布：2025年2月6日）
+Cybench: 一个评估语言模型网络安全能力和风险的框架。（提交日期：2024年8月15日）
 
-- [nyuctf_agents GitHub](https://github.com/NYU-LLM-CTF/nyuctf_agents)
-- [NYU_CTF_BenchMark](https://github.com/NYU-LLM-CTF/NYU_CTF_Bench)
+- [Cybench 网站](https://cybench.github.io/)
+- [Cybench GitHub](https://github.com/andyzorigin/cybench)
+- [Cybench 论文](https://arxiv.org/abs/2408.08926)
+- [ICLR 2025 大会议题](https://iclr.cc/virtual/2025/oral/31753)
+
+### CYBERSECEVAL 3
+
+CYBERSECEVAL 3: 推进大型语言模型网络安全风险和能力的评估。（提交日期：2024年8月）
+
+- [CYBERSECEVAL 3 论文](https://arxiv.org/abs/2408.10627)
+
+### CyberMetric
+
+CyberMetric: 一个基于检索增强生成的基准数据集，用于评估LLM在网络安全知识方面的能力。（提交日期：2024年7月）
+
+- [CyberMetric 论文](https://arxiv.org/abs/2407.08CyberMetric)
+- [CyberMetric 数据集](https://huggingface.co/datasets/norbert-tihanyi/CyberMetric)
+
+### SEvenLLM
+
+SEvenLLM: 一个旨在引出和提高LLM在安全事件中进行网络安全事件分析和响应能力的基准。（提交日期：2024年5月）
+
+- [SEvenLLM 论文](https://arxiv.org/abs/2405.18354)
+- [SEvenLLM GitHub](https://github.com/7evenllm/SEvenLLM)
+
+### CyberSecEval_2
+
+CYBERSECEVAL 2: 一个广泛的网络安全评估套件，用于大型语言模型。（提交日期：2024年4月）
+
+- [CyberSecEval 2 论文](https://arxiv.org/abs/2404.07920)
+- [CyberSecEval 2 GitHub](https://github.com/meta-llama/cyberseceval)
+
+### GDM Dangerous Capabilities
+
+GDM Dangerous Capabilities: 夺旗挑战。（提交日期：2024年3月）
+
+- [GDM Dangerous Capabilities 论文](https://arxiv.org/abs/2403.13793)
+- [GDM Dangerous Capabilities GitHub](https://github.com/google-deepmind/evals/tree/main/dangerous_capabilities)
 
 ### LLM_CTF
 
@@ -42,13 +82,55 @@ LLM 解决进攻性安全挑战的实证评估。（提交日期：2024年2月19
 - [LLM_CTF GitHub](https://github.com/NickNameInvalid/LLM_CTF)
 - [LLM_CTF 论文](https://arxiv.org/abs/2402.11814)
 
-### QHackBench
+### SecQA
 
-QHackBench: 使用 PennyLane Hackathon 挑战基准测试用于量子代码生成的大型语言模型。（提交日期：2025年6月24日）
+SecQA: 一个简洁的问答数据集，用于评估大型语言模型在计算机安全方面的能力。（提交日期：2023年12月）
 
-- [QHackBench 论文](https://arxiv.org/abs/2506.20008)
+- [SecQA 论文](https://arxiv.org/abs/2312.07344)
+- [SecQA 数据集](https://huggingface.co/datasets/secqa/secqa-v2)
 
 ## LLM 代理与框架
+
+#### CRAKEN
+
+CRAKEN: 具有基于知识执行的网络安全 LLM 代理。（提交日期：2025年5月21日）
+
+- [CRAKEN GitHub](https://github.com/NYU-LLM-CTF/nyuctf_agents_craken)
+- [CRAKEN 论文](https://arxiv.org/abs/2505.17107)
+
+### RedTeamLLM
+
+RedTeamLLM: 一个用于进攻性安全的Agentic AI框架。（提交日期：2025年5月11日）
+
+- [RedTeamLLM 论文](https://arxiv.org/abs/2505.06913)
+- [RedTeamLLM GitHub](https://github.com/lre-security-systems-team/redteamllm)
+
+### HackSynth-GRPO
+
+HackSynth-GRPO: 一个利用引导式强化提示优化 (GRPO) 来增强 LLM 代理解决密码学 CTF 挑战的框架。（发布日期：2025年4月）
+
+- [HackSynth-GRPO 论文](https://arxiv.org/html/2506.02048)
+- [HackSynth-GRPO GitHub](https://github.com/aielte-research/HackSynth-GRPO)
+
+### CAI
+
+一个轻量级、符合人体工程学的框架，用于构建可用于漏洞赏金的AI网络安全（CAI）。（论文发布：2025年4月）
+
+- [CAI 网站](https://aliasrobotics.github.io/cai/)
+- [CAI GitHub](https://github.com/aliasrobotics/cai)
+
+#### D-CIPHER
+
+D-CIPHER: 进攻性安全的动态协作智能多代理系统。（提交日期：2025年2月15日）
+
+- [D-CIPHER 论文](https://arxiv.org/abs/2502.10931)
+
+### HackSynth
+
+HackSynth: 用于自主渗透测试的 LLM 代理和评估框架。（提交日期：2024年12月2日）
+
+- [HackSynth GitHub](https://github.com/aielte-research/HackSynth)
+- [HackSynth 论文](https://arxiv.org/abs/2412.01778)
 
 ### EnIGMA
 
@@ -67,46 +149,7 @@ XBOW: 一个自主发现和利用潜在安全漏洞的系统。（首次提交�
 - [XBOW 基准](https://github.com/xbow-engineering/validation-benchmarks)
 - [XBOW 安全咨询致谢](https://github.com/advisories?query=credit%3Axbow-security)
 
-#### D-CIPHER
 
-D-CIPHER: 进攻性安全的动态协作智能多代理系统。（提交日期：2025年2月15日）
-
-- [D-CIPHER 论文](https://arxiv.org/abs/2502.10931)
-
-#### CRAKEN
-
-CRAKEN: 具有基于知识执行的网络安全 LLM 代理。（提交日期：2025年5月21日）
-
-- [CRAKEN GitHub](https://github.com/NYU-LLM-CTF/nyuctf_agents_craken)
-- [CRAKEN 论文](https://arxiv.org/abs/2505.17107)
-
-### HackSynth
-
-HackSynth: 用于自主渗透测试的 LLM 代理和评估框架。（提交日期：2024年12月2日）
-
-- [HackSynth GitHub](https://github.com/aielte-research/HackSynth)
-- [HackSynth 论文](https://arxiv.org/abs/2412.01778)
-
-### HackSynth-GRPO
-
-HackSynth-GRPO: 一个利用引导式强化提示优化 (GRPO) 来增强 LLM 代理解决密码学 CTF 挑战的框架。（发布日期：2025年4月）
-
-- [HackSynth-GRPO 论文](https://arxiv.org/html/2506.02048)
-- [HackSynth-GRPO GitHub](https://github.com/aielte-research/HackSynth-GRPO)
-
-### CAI
-
-一个轻量级、符合人体工程学的框架，用于构建可用于漏洞赏金的AI网络安全（CAI）。（论文发布：2025年4月）
-
-- [CAI 网站](https://aliasrobotics.github.io/cai/)
-- [CAI GitHub](https://github.com/aliasrobotics/cai)
-
-### RedTeamLLM
-
-RedTeamLLM: 一个用于进攻性安全的Agentic AI框架。（提交日期：2025年5月11日）
-
-- [RedTeamLLM 论文](https://arxiv.org/abs/2505.06913)
-- [RedTeamLLM GitHub](https://github.com/lre-security-systems-team/redteamllm)
 
 ## LLM 安全研究与工具
 
