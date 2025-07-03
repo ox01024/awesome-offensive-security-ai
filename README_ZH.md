@@ -131,6 +131,13 @@ CTFTINY: 用于大型语言模型网络攻击技能的轻量级基准测试。�
 
 - [CTFTiny GitHub](https://github.com/NYU-LLM-CTF/CTFTiny)
 
+### PentestGPT
+
+PentestGPT: 一个由 GPT 驱动的渗透测试工具。（发布日期：2024年8月12日）
+
+- [PentestGPT GitHub](https://github.com/GreyDGL/PentestGPT)
+- [PentestGPT 论文](https://www.usenix.org/conference/usenixsecurity24/presentation/deng)
+
 ### HackSynth
 
 HackSynth: 用于自主渗透测试的 LLM 代理和评估框架。（提交日期：2024年12月2日）

@@ -133,6 +133,13 @@ CTFTINY: LITE BENCHMARKING OFFENSIVE CYBER SKILLS IN LARGE LANGUAGE MODELS. (Sub
 
 - [CTFTiny GitHub](https://github.com/NYU-LLM-CTF/CTFTiny)
 
+### PentestGPT
+
+PentestGPT: A GPT-empowered penetration testing tool. (Published: Aug 12, 2024)
+
+- [PentestGPT GitHub](https://github.com/GreyDGL/PentestGPT)
+- [PentestGPT Paper](https://www.usenix.org/conference/usenixsecurity24/presentation/deng)
+
 ### HackSynth
 
 HackSynth: LLM agent and evaluation framework for autonomous penetration testing. (Submitted: Dec 2, 2024)
