@@ -127,6 +127,12 @@ D-CIPHER: Dynamic collaborative intelligent multi-agent system for offensive sec
 
 - [D-CIPHER Paper](https://arxiv.org/abs/2502.10931)
 
+### CTFTiny
+
+CTFTINY: LITE BENCHMARKING OFFENSIVE CYBER SKILLS IN LARGE LANGUAGE MODELS. (Submitted: Feb 11, 2025)
+
+- [CTFTiny GitHub](https://github.com/NYU-LLM-CTF/CTFTiny)
+
 ### HackSynth
 
 HackSynth: LLM agent and evaluation framework for autonomous penetration testing. (Submitted: Dec 2, 2024)

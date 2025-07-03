@@ -125,6 +125,12 @@ D-CIPHER: 进攻性安全的动态协作智能多代理系统。（提交日期�
 
 - [D-CIPHER 论文](https://arxiv.org/abs/2502.10931)
 
+### CTFTiny
+
+CTFTINY: 用于大型语言模型网络攻击技能的轻量级基准测试。（提交日期：2025年2月11日）
+
+- [CTFTiny GitHub](https://github.com/NYU-LLM-CTF/CTFTiny)
+
 ### HackSynth
 
 HackSynth: 用于自主渗透测试的 LLM 代理和评估框架。（提交日期：2024年12月2日）
