@@ -164,6 +164,14 @@ XBOW: 一个自主发现和利用潜在安全漏洞的系统。（首次提交�
 
 
 
+## 竞赛
+
+### AI Cyber Challenge
+
+AI Cyber Challenge: 一项旨在推进网络安全领域人工智能技术水平的竞赛。
+
+- [AI Cyber Challenge 网站](https://aicyberchallenge.com/)
+
 ## LLM 安全研究与工具
 
 ### 教LLM如何XSS

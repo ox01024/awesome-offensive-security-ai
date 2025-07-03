@@ -166,6 +166,14 @@ XBOW: A system that autonomously finds and exploits potential security vulnerabi
 
 
 
+## Competitions
+
+### AI Cyber Challenge
+
+AI Cyber Challenge: A competition to advance the state of the art in AI for cybersecurity.
+
+- [AI Cyber Challenge Website](https://aicyberchallenge.com/)
+
 ## LLM Security Research & Tools
 
 ### Teaching LLMs how to XSS
