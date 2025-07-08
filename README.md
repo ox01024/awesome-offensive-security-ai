@@ -37,6 +37,7 @@ nyuctf_agents: Baseline LLM agents for NYU CTF benchmark. (Latest Release: Feb 6
 
 InterCode-CTF: A benchmark for evaluating LLMs in capture-the-flag challenges. (Submitted: Dec 3, 2024)
 
+- [InterCode-CTF Blog Post](https://palisaderesearch.org/blog/intercode-ctf)
 - [Paper: Hacking CTFs with Plain Agents](https://arxiv.org/abs/2412.02776)
 - [intercode GitHub](https://github.com/palisaderesearch/intercode)
 

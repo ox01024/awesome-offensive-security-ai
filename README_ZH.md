@@ -35,6 +35,7 @@ nyuctf_agents: NYU CTF 基准的基线 LLM 代理。（最新发布：2025年2�
 
 InterCode-CTF: 一个用于评估 LLM 在夺旗挑战中表现的基准。（提交日期：2024年12月3日）
 
+- [InterCode-CTF 博客文章](https://palisaderesearch.org/blog/intercode-ctf)
 - [论文: Hacking CTFs with Plain Agents](https://arxiv.org/abs/2412.02776)
 - [intercode GitHub](https://github.com/palisaderesearch/intercode)
 
