@@ -4,6 +4,12 @@
 
 ## 基准与评估
 
+### 网络众包启发
+
+通过众包启发评估AI网络能力。 (发布日期: 2025年7月8日)
+
+- [网络众包启发博客文章](https://palisaderesearch.org/blog/cyber-crowdsourced-elicitation)
+
 ### QHackBench
 
 QHackBench: 使用 PennyLane Hackathon 挑战基准测试用于量子代码生成的大型语言模型。（提交日期：2025年6月24日）

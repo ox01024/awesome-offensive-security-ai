@@ -6,6 +6,12 @@ A curated list of outstanding offensive security AI work, papers, organizations,
 
 ## Benchmarks & Evaluation
 
+### Cyber-Crowdsourced Elicitation
+
+Evaluating AI cyber capabilities with crowdsourced elicitation. (Published: Jul 8, 2025)
+
+- [Cyber-Crowdsourced Elicitation Blog Post](https://palisaderesearch.org/blog/cyber-crowdsourced-elicitation)
+
 ### QHackBench
 
 QHackBench: Benchmarking Large Language Models for Quantum Code Generation using PennyLane Hackathon Challenges. (Submitted: Jun 24, 2025)
