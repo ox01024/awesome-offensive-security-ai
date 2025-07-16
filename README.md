@@ -12,6 +12,13 @@ Evaluating AI cyber capabilities with crowdsourced elicitation. (Published: Jul 
 
 - [Cyber-Crowdsourced Elicitation Blog Post](https://palisaderesearch.org/blog/cyber-crowdsourced-elicitation)
 
+### CVE-Bench
+
+CVE-Bench: A Benchmark for AI Agents' Ability to Exploit Real-World Web Vulnerabilities. (Submitted: Mar 17, 2025)
+
+- [CVE-Bench GitHub](https://github.com/uiuc-kang-lab/cve-bench)
+- [CVE-Bench Paper](https://arxiv.org/abs/2503.17332)
+
 ### QHackBench
 
 QHackBench: Benchmarking Large Language Models for Quantum Code Generation using PennyLane Hackathon Challenges. (Submitted: Jun 24, 2025)

@@ -10,6 +10,13 @@
 
 - [网络众包启发博客文章](https://palisaderesearch.org/blog/cyber-crowdsourced-elicitation)
 
+### CVE-Bench
+
+CVE-Bench: 一个用于评估AI代理利用真实世界网络漏洞能力的基准。（提交日期：2025年3月17日）
+
+- [CVE-Bench GitHub](https://github.com/uiuc-kang-lab/cve-bench)
+- [CVE-Bench 论文](https://arxiv.org/abs/2503.17332)
+
 ### QHackBench
 
 QHackBench: 使用 PennyLane Hackathon 挑战基准测试用于量子代码生成的大型语言模型。（提交日期：2025年6月24日）
