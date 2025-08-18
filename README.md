@@ -11,6 +11,7 @@ A curated list of outstanding offensive security AI work, papers, organizations,
 A lightweight CTF benchmark with 50 challenges across various categories. (Submitted: Aug 5, 2025)
 
 - [Towards Effective Offensive Security LLM Agents Paper](https://arxiv.org/abs/2508.05674)
+- [CTFTiny (Shao et al.) GitHub](https://github.com/NYU-LLM-CTF/CTFTiny)
 
 ### Cyber-Crowdsourced Elicitation
 
@@ -118,6 +119,7 @@ SecQA: A Concise Question-Answering Dataset for Evaluating Large Language Models
 Towards Effective Offensive Security LLM Agents: Hyperparameter Tuning, LLM as a Judge, and a Lightweight CTF Benchmark. (Submitted: Aug 5, 2025)
 
 - [Towards Effective Offensive Security LLM Agents Paper](https://arxiv.org/abs/2508.05674)
+- [CTFTiny GitHub](https://github.com/NYU-LLM-CTF/CTFTiny)
 
 #### CRAKEN
 

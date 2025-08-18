@@ -9,6 +9,7 @@
 一个包含50个不同类别挑战的轻量级CTF基准。(提交日期: 2025年8月5日)
 
 - [Towards Effective Offensive Security LLM Agents 论文](https://arxiv.org/abs/2508.05674)
+- [CTFTiny (Shao et al.) GitHub](https://github.com/NYU-LLM-CTF/CTFTiny)
 
 ### 网络众包启发
 
@@ -116,6 +117,7 @@ SecQA: 一个简洁的问答数据集，用于评估大型语言模型在计算�
 迈向高效的进攻性安全LLM代理：超参数调整、LLM作为裁判以及轻量级CTF基准。(提交日期: 2025年8月5日)
 
 - [Towards Effective Offensive Security LLM Agents 论文](https://arxiv.org/abs/2508.05674)
+- [CTFTiny GitHub](https://github.com/NYU-LLM-CTF/CTFTiny)
 
 #### CRAKEN
 
