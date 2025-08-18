@@ -4,6 +4,12 @@
 
 ## 基准与评估
 
+### CTFTiny (Shao et al.)
+
+一个包含50个不同类别挑战的轻量级CTF基准。(提交日期: 2025年8月5日)
+
+- [Towards Effective Offensive Security LLM Agents 论文](https://arxiv.org/abs/2508.05674)
+
 ### 网络众包启发
 
 通过众包启发评估AI网络能力。 (发布日期: 2025年7月8日)
@@ -105,6 +111,12 @@ SecQA: 一个简洁的问答数据集，用于评估大型语言模型在计算�
 
 ## LLM 代理与框架
 
+### Towards Effective Offensive Security LLM Agents (迈向高效的进攻性安全LLM代理)
+
+迈向高效的进攻性安全LLM代理：超参数调整、LLM作为裁判以及轻量级CTF基准。(提交日期: 2025年8月5日)
+
+- [Towards Effective Offensive Security LLM Agents 论文](https://arxiv.org/abs/2508.05674)
+
 #### CRAKEN
 
 CRAKEN: 具有基于知识执行的网络安全 LLM 代理。（提交日期：2025年5月21日）
@@ -175,6 +187,7 @@ XBOW: 一个自主发现和利用潜在安全漏洞的系统。（首次提交�
 - [XBOW 网站](https://xbow.com/)
 - [XBOW 基准](https://github.com/xbow-engineering/validation-benchmarks)
 - [XBOW 安全咨询致谢](https://github.com/advisories?query=credit%3Axbow-security)
+- [AI Agents for OffSec with Zero False Positives (Black Hat 2025 幻灯片)](https://assets-global.website-files.com/658189b90f81ce5f1a7e6d63/66ac8e51655997008e75f733_XBOW%20-%20Black%20Hat%202025%20-%20AI%20Agents%20for%20Offsec%20with%20Zero%20False%20Positives.pdf)
 
 
 

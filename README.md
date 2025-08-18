@@ -6,6 +6,12 @@ A curated list of outstanding offensive security AI work, papers, organizations,
 
 ## Benchmarks & Evaluation
 
+### CTFTiny (Shao et al.)
+
+A lightweight CTF benchmark with 50 challenges across various categories. (Submitted: Aug 5, 2025)
+
+- [Towards Effective Offensive Security LLM Agents Paper](https://arxiv.org/abs/2508.05674)
+
 ### Cyber-Crowdsourced Elicitation
 
 Evaluating AI cyber capabilities with crowdsourced elicitation. (Published: Jul 8, 2025)
@@ -107,6 +113,12 @@ SecQA: A Concise Question-Answering Dataset for Evaluating Large Language Models
 
 ## LLM Agents & Frameworks
 
+### Towards Effective Offensive Security LLM Agents
+
+Towards Effective Offensive Security LLM Agents: Hyperparameter Tuning, LLM as a Judge, and a Lightweight CTF Benchmark. (Submitted: Aug 5, 2025)
+
+- [Towards Effective Offensive Security LLM Agents Paper](https://arxiv.org/abs/2508.05674)
+
 #### CRAKEN
 
 CRAKEN: Cybersecurity LLM Agent with Knowledge-Based Execution. (Submitted: May 21, 2025)
@@ -177,6 +189,7 @@ XBOW: A system that autonomously finds and exploits potential security vulnerabi
 - [XBOW Website](https://xbow.com/)
 - [XBOW Benchmark](https://github.com/xbow-engineering/validation-benchmarks)
 - [XBOW security advisory credits](https://github.com/advisories?query=credit%3Axbow-security)
+- [AI Agents for OffSec with Zero False Positives (Black Hat 2025 Slides)](https://assets-global.website-files.com/658189b90f81ce5f1a7e6d63/66ac8e51655997008e75f733_XBOW%20-%20Black%20Hat%202025%20-%20AI%20Agents%20for%20Offsec%20with%20Zero%20False%20Positives.pdf)
 
 
 
