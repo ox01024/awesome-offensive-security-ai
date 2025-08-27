@@ -119,6 +119,12 @@ SecQA: 一个简洁的问答数据集，用于评估大型语言模型在计算�
 - [Towards Effective Offensive Security LLM Agents 论文](https://arxiv.org/abs/2508.05674)
 - [CTFTiny GitHub](https://github.com/NYU-LLM-CTF/CTFTiny)
 
+### Incalmo
+
+一个高级抽象层，允许LLM指定一般性动作，然后由专家代理将其转换为具体命令。(提交日期: 2025年1月28日)
+
+- [关于使用LLM自主执行多主机攻击的可行性 论文](https://arxiv.org/abs/2501.16466)
+
 #### CRAKEN
 
 CRAKEN: 具有基于知识执行的网络安全 LLM 代理。（提交日期：2025年5月21日）
@@ -190,6 +196,12 @@ XBOW: 一个自主发现和利用潜在安全漏洞的系统。（首次提交�
 - [XBOW 基准](https://github.com/xbow-engineering/validation-benchmarks)
 - [XBOW 安全咨询致谢](https://github.com/advisories?query=credit%3Axbow-security)
 - [AI Agents for OffSec with Zero False Positives (Black Hat 2025 幻灯片)](https://assets-global.website-files.com/658189b90f81ce5f1a7e6d63/66ac8e51655997008e75f733_XBOW%20-%20Black%20Hat%202025%20-%20AI%20Agents%20for%20Offsec%20with%20Zero%20False%20Positives.pdf)
+
+### 从脚本到策略：Claude 4在进攻性安全中的高级方法
+
+Pattern Labs和Anthropic对Claude 4在进攻性安全方面的能力进行的联合评估。(发布日期: 2025年8月20日)
+
+- [从脚本到策略：Claude 4在进攻性安全中的高级方法 博客文章](https://patternlabs.co/blog/from-scripts-to-strategy-claude-4s-advanced-approach-to-offensive-security)
 
 
 

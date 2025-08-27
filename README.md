@@ -121,6 +121,12 @@ Towards Effective Offensive Security LLM Agents: Hyperparameter Tuning, LLM as a
 - [Towards Effective Offensive Security LLM Agents Paper](https://arxiv.org/abs/2508.05674)
 - [CTFTiny GitHub](https://github.com/NYU-LLM-CTF/CTFTiny)
 
+### Incalmo
+
+A high-level abstraction layer that allows LLMs to specify general actions, which are then translated into specific commands by expert agents. (Submitted: Jan 28, 2025)
+
+- [On the Feasibility of Using LLMs to Autonomously Execute Multi-Host Attacks Paper](https://arxiv.org/abs/2501.16466)
+
 #### CRAKEN
 
 CRAKEN: Cybersecurity LLM Agent with Knowledge-Based Execution. (Submitted: May 21, 2025)
@@ -192,6 +198,12 @@ XBOW: A system that autonomously finds and exploits potential security vulnerabi
 - [XBOW Benchmark](https://github.com/xbow-engineering/validation-benchmarks)
 - [XBOW security advisory credits](https://github.com/advisories?query=credit%3Axbow-security)
 - [AI Agents for OffSec with Zero False Positives (Black Hat 2025 Slides)](https://assets-global.website-files.com/658189b90f81ce5f1a7e6d63/66ac8e51655997008e75f733_XBOW%20-%20Black%20Hat%202025%20-%20AI%20Agents%20for%20Offsec%20with%20Zero%20False%20Positives.pdf)
+
+### From Scripts to Strategy: Claude 4's Advanced Approach to Offensive Security
+
+A joint evaluation by Pattern Labs and Anthropic on Claude 4's capabilities in offensive security. (Published: Aug 20, 2025)
+
+- [From Scripts to Strategy: Claude 4's Advanced Approach to Offensive Security Blog Post](https://patternlabs.co/blog/from-scripts-to-strategy-claude-4s-advanced-approach-to-offensive-security)
 
 
 
