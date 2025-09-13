@@ -207,6 +207,12 @@ Pattern Labs和Anthropic对Claude 4在进攻性安全方面的能力进行的联
 
 ## 竞赛
 
+### Agentic Automated CTF
+
+一项挑战参与者构建由大型语言模型（LLM）驱动的AI代理，以自主解决夺旗（CTF）挑战的竞赛。
+
+- [Agentic Automated CTF 网站](https://www.csaw.io/agentic-automated-ctf)
+
 ### AI Cyber Challenge
 
 AI Cyber Challenge: 一项旨在推进网络安全领域人工智能技术水平的竞赛。

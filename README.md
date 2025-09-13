@@ -209,6 +209,12 @@ A joint evaluation by Pattern Labs and Anthropic on Claude 4's capabilities in o
 
 ## Competitions
 
+### Agentic Automated CTF
+
+A competition challenging participants to build AI agents powered by large language models (LLMs) to autonomously solve Capture the Flag (CTF) challenges.
+
+- [Agentic Automated CTF Website](https://www.csaw.io/agentic-automated-ctf)
+
 ### AI Cyber Challenge
 
 AI Cyber Challenge: A competition to advance the state of the art in AI for cybersecurity.
