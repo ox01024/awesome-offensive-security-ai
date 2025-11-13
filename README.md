@@ -114,6 +114,14 @@ SecQA: A Concise Question-Answering Dataset for Evaluating Large Language Models
 
 ## LLM Agents & Frameworks
 
+### Cyber-AutoAgent
+
+An advanced, autonomous cybersecurity agent that leverages a meta-agent architecture to dynamically adapt its strategies and tools for sophisticated penetration testing. (Published: Nov 2025)
+
+- [Cyber-AutoAgent GitHub](https://github.com/westonbrown/Cyber-AutoAgent)
+- [From Single-Agent to Meta-Agent Blog Post](https://medium.com/data-science-collective/from-single-agent-to-meta-agent-building-the-leading-open-source-autonomous-cyber-agent-e1b704f81707)
+- [Architecture lessons from XBOW Benchmark Blog Post](https://medium.com/data-science-collective/building-the-leading-open-source-pentesting-agent-architecture-lessons-from-xbow-benchmark-f6874f932ca4)
+
 ### Towards Effective Offensive Security LLM Agents
 
 Towards Effective Offensive Security LLM Agents: Hyperparameter Tuning, LLM as a Judge, and a Lightweight CTF Benchmark. (Submitted: Aug 5, 2025)
