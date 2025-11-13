@@ -120,6 +120,13 @@ SecQA: 一个简洁的问答数据集，用于评估大型语言模型在计算�
 - [从单代理到元代理 博客文章](https://medium.com/data-science-collective/from-single-agent-to-meta-agent-building-the-leading-open-source-autonomous-cyber-agent-e1b704f81707)
 - [从XBOW基准测试中学习架构经验 博客文章](https://medium.com/data-science-collective/building-the-leading-open-source-pentesting-agent-architecture-lessons-from-xbow-benchmark-f6874f932ca4)
 
+### Strix
+
+一个由AI驱动的渗透测试代理，可帮助开发人员和安全工程师保护其Web应用程序。 (首次提交: 2024年7月)
+
+- [Strix 网站](https://usestrix.com/)
+- [Strix GitHub](https://github.com/usestrix/strix)
+
 ### Towards Effective Offensive Security LLM Agents (迈向高效的进攻性安全LLM代理)
 
 迈向高效的进攻性安全LLM代理：超参数调整、LLM作为裁判以及轻量级CTF基准。(提交日期: 2025年8月5日)

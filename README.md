@@ -122,6 +122,13 @@ An advanced, autonomous cybersecurity agent that leverages a meta-agent architec
 - [From Single-Agent to Meta-Agent Blog Post](https://medium.com/data-science-collective/from-single-agent-to-meta-agent-building-the-leading-open-source-autonomous-cyber-agent-e1b704f81707)
 - [Architecture lessons from XBOW Benchmark Blog Post](https://medium.com/data-science-collective/building-the-leading-open-source-pentesting-agent-architecture-lessons-from-xbow-benchmark-f6874f932ca4)
 
+### Strix
+
+An AI-powered penetration testing agent that helps developers and security engineers secure their web applications. (Initial commit: Jul 2024)
+
+- [Strix Website](https://usestrix.com/)
+- [Strix GitHub](https://github.com/usestrix/strix)
+
 ### Towards Effective Offensive Security LLM Agents
 
 Towards Effective Offensive Security LLM Agents: Hyperparameter Tuning, LLM as a Judge, and a Lightweight CTF Benchmark. (Submitted: Aug 5, 2025)
