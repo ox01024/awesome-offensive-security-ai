@@ -11,6 +11,16 @@
 - [Towards Effective Offensive Security LLM Agents 论文](https://arxiv.org/abs/2508.05674)
 - [CTFTiny (Shao et al.) GitHub](https://github.com/NYU-LLM-CTF/CTFTiny)
 
+### CyberGym
+
+评估AI代理在真实世界中的网络安全能力。(提交日期: 2025年6月4日)
+
+- [CyberGym 网站](https://www.cybergym.io/)
+- [CyberGym 博客文章](https://rdi.berkeley.edu/blog/cybergym/)
+- [CyberGym 数据集](https://huggingface.co/datasets/sunblaze-ucb/cybergym)
+- [CyberGym GitHub](https://github.com/sunblaze-ucb/cybergym)
+- [CyberGym 论文](https://arxiv.org/abs/2506.02548)
+
 ### 网络众包启发
 
 通过众包启发评估AI网络能力。 (发布日期: 2025年7月8日)
@@ -234,7 +244,19 @@ AI Cyber Challenge: 一项旨在推进网络安全领域人工智能技术水平
 
 - [AI Cyber Challenge 网站](https://aicyberchallenge.com/)
 
+### 网络竞赛
+
+网络竞赛的最新趋势和结果简报。(发布日期: 2025年11月)
+
+- [网络竞赛博客文章](https://red.anthropic.com/2025/cyber-competitions/)
+
 ## LLM 安全研究与工具
+
+### AI for Cyber Defenders
+
+探讨AI在网络防御中的应用，从威胁检测到事件响应。(发布日期: 2025年11月)
+
+- [AI for Cyber Defenders 博客文章](https://red.anthropic.com/2025/ai-for-cyber-defenders/)
 
 ### 教LLM如何XSS
 

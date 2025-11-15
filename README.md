@@ -13,6 +13,16 @@ A lightweight CTF benchmark with 50 challenges across various categories. (Submi
 - [Towards Effective Offensive Security LLM Agents Paper](https://arxiv.org/abs/2508.05674)
 - [CTFTiny (Shao et al.) GitHub](https://github.com/NYU-LLM-CTF/CTFTiny)
 
+### CyberGym
+
+Evaluating AI Agents' Real-World Cybersecurity Capabilities. (Submitted: Jun 4, 2025)
+
+- [CyberGym Website](https://www.cybergym.io/)
+- [CyberGym Blog Post](https://rdi.berkeley.edu/blog/cybergym/)
+- [CyberGym Dataset](https://huggingface.co/datasets/sunblaze-ucb/cybergym)
+- [CyberGym GitHub](https://github.com/sunblaze-ucb/cybergym)
+- [CyberGym Paper](https://arxiv.org/abs/2506.02548)
+
 ### Cyber-Crowdsourced Elicitation
 
 Evaluating AI cyber capabilities with crowdsourced elicitation. (Published: Jul 8, 2025)
@@ -236,7 +246,19 @@ AI Cyber Challenge: A competition to advance the state of the art in AI for cybe
 
 - [AI Cyber Challenge Website](https://aicyberchallenge.com/)
 
+### Cyber Competitions
+
+A brief overview of the latest trends and results in cyber competitions. (Published: Nov 2025)
+
+- [Cyber Competitions Blog Post](https://red.anthropic.com/2025/cyber-competitions/)
+
 ## LLM Security Research & Tools
+
+### AI for Cyber Defenders
+
+Exploring the use of AI in cyber defense, from threat detection to incident response. (Published: Nov 2025)
+
+- [AI for Cyber Defenders Blog Post](https://red.anthropic.com/2025/ai-for-cyber-defenders/)
 
 ### Teaching LLMs how to XSS
 
