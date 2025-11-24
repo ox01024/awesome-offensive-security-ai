@@ -258,6 +258,12 @@ AI Cyber Challenge: 一项旨在推进网络安全领域人工智能技术水平
 
 - [AI for Cyber Defenders 博客文章](https://red.anthropic.com/2025/ai-for-cyber-defenders/)
 
+### 安全论文和链接 (SPL)
+
+安全论文和链接的集合。(更新日期: 2025)
+
+- [SPL 网站](https://spl.team/)
+
 ### 教LLM如何XSS
 
 教LLM如何XSS: 微调和强化学习的介绍（使用您自己的GPU）

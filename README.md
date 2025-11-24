@@ -260,6 +260,12 @@ Exploring the use of AI in cyber defense, from threat detection to incident resp
 
 - [AI for Cyber Defenders Blog Post](https://red.anthropic.com/2025/ai-for-cyber-defenders/)
 
+### Security Papers and Links (SPL)
+
+A collection of security papers and links. (Updated: 2025)
+
+- [SPL Website](https://spl.team/)
+
 ### Teaching LLMs how to XSS
 
 Teaching LLMs how to XSS: An introduction to fine-tuning and reinforcement learning (using your own GPU)
