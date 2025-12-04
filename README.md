@@ -252,7 +252,30 @@ A brief overview of the latest trends and results in cyber competitions. (Publis
 
 - [Cyber Competitions Blog Post](https://red.anthropic.com/2025/cyber-competitions/)
 
+### Tencent Cloud Hackathon - Intelligent Penetration Challenge
+
+Designed based on the XBOW Benchmark. Participants are required to write agent programs driven by Large Language Models (LLM) to automate penetration of target machines and capture FLAGs. (2025-11-08 to 2025-11-17)
+
+- [Intelligent Penetration Challenge](https://zc.tencent.com/competition/competitionHackathon?code=cha004)
+
+#### Top 4 Antix
+
+- [Intent Engineering: Agent Pattern Graph(APG) & Meta Tooling](https://wiki.chainreactors.red/blog/2025/12/02/intent_engineering_01)
+
+- [Intent Is All You Need (for agent)](https://mp.weixin.qq.com/s/GOfV2JDo6c7r36BNeHtG2g)
+
+- [AI for Security Attack and Defense: Engineering Design and Practice of Automated Penetration Agent](https://mp.weixin.qq.com/s/jT4poWZ4Gfu3faXvul07HA)
+
+#### Top 9 yhy for yhy
+
+- [7 Days Top 9: How I made Claude hand-craft a fully automated CTF player](https://mp.weixin.qq.com/s/fWWVMTySJMpyKt62BBsDdA)
+- [CHYing-agent](https://github.com/yhy0/CHYing-agent)
+
 ## LLM Security Research & Tools
+
+### AI Agent discovers $4.6 million blockchain smart contract vulnerability
+
+- [Article](https://red.anthropic.com/2025/smart-contracts/)
 
 ### AI for Cyber Defenders
 
