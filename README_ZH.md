@@ -122,6 +122,12 @@ SecQA: 一个简洁的问答数据集，用于评估大型语言模型在计算�
 
 ## LLM 代理与框架
 
+### Dark-Moon
+
+一个开源的自主 AI 渗透测试平台，采用 MCP 宿主与多智能体架构，为 Web、云、Active Directory、Kubernetes 与 API 配备按技术栈划分的进攻型子代理，并为每个漏洞保留可复现的证据链；模型无关，针对 Claude Opus 调优。
+
+- [Dark-Moon GitHub](https://github.com/ASCIT31/Dark-Moon)
+
 ### Cyber-AutoAgent
 
 一个先进的自主网络安全代理，利用元代理架构动态调整其策略和工具，以进行复杂的渗透测试。 (发布日期: 2025 年 11 月)
