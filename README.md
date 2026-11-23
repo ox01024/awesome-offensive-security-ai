@@ -232,6 +232,12 @@ A joint evaluation by Pattern Labs and Anthropic on Claude 4's capabilities in o
 
 
 
+### Pentest Swarm AI
+
+Open-source autonomous penetration testing framework where a swarm of AI agents performs recon, classifies findings, chains vulnerabilities, and proves exploitation with a working proof-of-concept, behind fail-closed scope, egress, and authorization guardrails. Self-hosted, Go, model-agnostic.
+
+- [Pentest Swarm AI GitHub](https://github.com/Armur-Ai/Pentest-Swarm-AI)
+
 ## Competitions
 
 ### Agentic Automated CTF
